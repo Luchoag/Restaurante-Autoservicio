@@ -1,0 +1,10 @@
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\bin\Release\C19E01 Restaurante.exe.config
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\bin\Release\C19E01 Restaurante.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\bin\Release\C19E01 Restaurante.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\bin\Release\C19E01 Restaurante.xml
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\obj\Release\C19E01_Restaurante.Form1.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\obj\Release\C19E01_Restaurante.Resources.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\obj\Release\C19E01 Restaurante.vbproj.GenerateResource.Cache
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\obj\Release\C19E01 Restaurante.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\obj\Release\C19E01 Restaurante.xml
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\C19E01 Restaurante\C19E01 Restaurante\obj\Release\C19E01 Restaurante.pdb
